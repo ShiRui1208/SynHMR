@@ -1,6 +1,27 @@
-<p align="center">
-    <h1 align="center">SynHMR: Synergistic Joint-Mesh Modeling for LiDAR-based Human Mesh Reconstruction</h1>
-</p>
+<div align="center">
+    <h1>SynHMR: Synergistic Joint-Mesh Modeling for LiDAR-based Human Mesh Reconstruction (ECCV 2026)</h1>
+    <div>
+        <a href="https://github.com/ShiRui1208/" target="_blank">Rui Shi</a><sup>1</sup>&emsp;
+        <a href="https://github.com/AnxQ/" target="_blank">Xiaoqi An</a><sup>1</sup>&emsp;
+        <a href="https://sharling-lz.github.io/" target="_blank">Lin Zhao</a><sup>1</sup>&emsp;
+        <a href="https://scholar.google.com/citations?user=N1Y-n5EAAAAJ&hl=en" target="_blank">Di Wang</a><sup>2</sup>&emsp;
+        <a href="https://gcatnjust.github.io/ChenGong/index.html" target="_blank">Chen Gong</a><sup>3</sup>&emsp;
+        <a href="https://scholar.google.com.sg/citations?user=61LOyWUAAAAJ&hl=en" target="_blank">Le Zhang</a><sup>4</sup>
+    </div>
+    <div>
+        <sup>1</sup>School of Computer Science and Engineering, Nanjing University of Science and Technology, China
+    </div>
+    <div>
+        <sup>2</sup>School of Computer Science and Technology, Xidian University, China
+    </div>
+    <div>
+        <sup>3</sup>School of Automation and Intelligent Sensing, Shanghai Jiao Tong University, China
+    </div>
+    <div>
+        <sup>4</sup>School of Information and Communication Engineering, University of Electronic Science and Technology of China, China
+    </div>
+</div>
+
 
 ## SynHMR Framework
 
