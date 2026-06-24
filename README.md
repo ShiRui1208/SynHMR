@@ -36,4 +36,7 @@ We propose SynHMR, a single-frame LiDAR-based human mesh reconstruction framewor
 
 ## :mega: News
 
-- [2026/06] Paper gets accepted by ECCV 2026! :tada::tada: Stay tuned, code is coming soon!
+## 📣 News
+
+- [2026/06] SynHMR has been accepted to ECCV 2026! 🎉🎉
+- [Coming Soon] Code, additional qualitative results, and videos will be released soon, including demonstrations of temporal stability and robustness under sparsity/occlusion.
