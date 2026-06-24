@@ -1,6 +1,7 @@
 <p align="center">
     <h1 align="center">SynHMR: Synergistic Joint-Mesh Modeling for LiDAR-based Human Mesh Reconstruction</h1>
 </p>
+
 ## SynHMR Framework
 
 ![Paper](/framework.png)
