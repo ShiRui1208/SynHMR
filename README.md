@@ -9,16 +9,16 @@
         <a href="https://scholar.google.com.sg/citations?user=61LOyWUAAAAJ&hl=en" target="_blank">Le Zhang</a><sup>4</sup>
     </div>
     <div>
-        <sup>1</sup>School of Computer Science and Engineering, Nanjing University of Science and Technology, China
+        <sup>1</sup>School of Computer Science and Engineering, Nanjing University of Science and Technology
     </div>
     <div>
-        <sup>2</sup>School of Computer Science and Technology, Xidian University, China
+        <sup>2</sup>School of Computer Science and Technology, Xidian University
     </div>
     <div>
-        <sup>3</sup>School of Automation and Intelligent Sensing, Shanghai Jiao Tong University, China
+        <sup>3</sup>School of Automation and Intelligent Sensing, Shanghai Jiao Tong University
     </div>
     <div>
-        <sup>4</sup>School of Information and Communication Engineering, University of Electronic Science and Technology of China, China
+        <sup>4</sup>School of Information and Communication Engineering, University of Electronic Science and Technology of China
     </div>
 </div>
 
