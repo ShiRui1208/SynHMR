@@ -22,6 +22,7 @@
     </div>
 </div>
 
+We propose SynHMR, a single-frame LiDAR-based human mesh reconstruction framework for robust human understanding from sparse point clouds. Existing methods usually follow a decoupled pipeline that first estimates skeletal joints and then reconstructs the mesh, which may propagate pose errors under sparse and incomplete LiDAR observations. To address this issue, SynHMR performs synergistic joint-mesh modeling by representing both skeletal joints and sampled mesh vertices as queries. A Geometry-Aware Transformer enables bidirectional interaction between joint and vertex queries, where skeletal guidance helps mesh reconstruction and surface constraints help correct joint estimation. We further introduce a Noise-Augmented Learning strategy to improve robustness during training. Extensive experiments on LiDARHuman26M, SLOPER4D, and Human-M3 demonstrate that SynHMR achieves state-of-the-art performance among LiDAR-based human mesh reconstruction methods.
 
 ## SynHMR Framework
 
